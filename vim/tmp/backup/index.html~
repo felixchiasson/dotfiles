@@ -1,9 +1,0 @@
----
-layout: default
----
-<head>
-    <link rel="stylesheet" href="../css/background_text.css">
-</head>
-<div class="hello-css">
-    <h1>Hello.</h1>
-</div>
