@@ -1,0 +1,9 @@
+---
+layout: default
+permalink: /test/
+---
+%head
+  %link{:rel => "stylesheet" :href => "../css/background_text.css"}
+
+#hello-css
+    %h1 Hello.

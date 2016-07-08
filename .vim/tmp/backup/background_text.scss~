@@ -1,0 +1,17 @@
+---
+---
+h1 {
+    margin: 0;
+    font-size: 120px;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    background:
+    url('/images/hello-alt-bg.jpg')
+    center center no-repeat;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Titillium Web', sans-serif;
+    text-transform: uppercase;
+}
